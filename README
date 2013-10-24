@@ -4,3 +4,9 @@ jit-tools
 Just-in-time tools for my own convenience.  Happy to share.
 
 Instructions for each tool are in the program itself.
+
+List of programs:
+
+readcd.py: Good for load many audio cds (in an audio book, for example)
+into .mp3 files.  Automatically name and number the cd and prompt for
+the next one.
