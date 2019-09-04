@@ -13,3 +13,5 @@ List of programs:
 readcd.py: Good for load many audio cds (in an audio book, for example)
 into .mp3 files.  Automatically name and number the cd and prompt for
 the next one.
+
+clean_a_field_in_mysql.py: Serves as an example how to play MySQL db.
